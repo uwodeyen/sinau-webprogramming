@@ -1,0 +1,2 @@
+mail stone
+- mantapkan pemahaman model dan view
